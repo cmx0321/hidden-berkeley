@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Explore UC Berkeley
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+This guide helps students who are new to UC Berkeley find useful places and services around campus. It includes libraries, student support, and places to explore, with official links for more information.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
